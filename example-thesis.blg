@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: example-thesis.aux
+The style file: plain.bst
+Database file #1: ex1.bib
+Warning--empty journal in minsky1969perceptrons
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            529 strings with 4707 characters,
+and the built_in function-call counts, 1281 in all, are:
+= -- 122
+> -- 58
+< -- 0
++ -- 25
+- -- 18
+* -- 74
+:= -- 238
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 52
+empty$ -- 100
+format.name$ -- 18
+if$ -- 255
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 19
+quote$ -- 0
+skip$ -- 34
+stack$ -- 0
+substring$ -- 49
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 1
+while$ -- 13
+width$ -- 6
+write$ -- 54
+(There was 1 warning)

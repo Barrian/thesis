@@ -1,0 +1,38 @@
+\contentsline {section}{Declaration}{i}
+\contentsline {section}{Abstract}{ii}
+\contentsline {section}{Acknowledgements}{iii}
+\contentsline {chapter}{\numberline {1}Proposal}{1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}
+\contentsline {section}{\numberline {1.2}Aims}{1}
+\contentsline {subsection}{\numberline {1.2.1}Objectives}{1}
+\contentsline {subsection}{\numberline {1.2.2}Deliverables}{2}
+\contentsline {section}{\numberline {1.3}Resources}{2}
+\contentsline {section}{\numberline {1.4}Schedule}{3}
+\contentsline {section}{\numberline {1.5}Summary}{3}
+\contentsline {chapter}{\numberline {2}Literature Review}{4}
+\contentsline {section}{\numberline {2.1}Introduction}{4}
+\contentsline {section}{\numberline {2.2}Subject}{4}
+\contentsline {subsection}{\numberline {2.2.1}title}{4}
+\contentsline {subsubsection}{title}{4}
+\contentsline {section}{\numberline {2.3}Citation \& Reference}{4}
+\contentsline {section}{\numberline {2.4}Summary}{5}
+\contentsline {chapter}{\numberline {3}Method}{6}
+\contentsline {section}{\numberline {3.1}Introduction}{6}
+\contentsline {section}{\numberline {3.2}Experiment 1}{6}
+\contentsline {section}{\numberline {3.3}Experiment 2}{6}
+\contentsline {section}{\numberline {3.4}Summary}{6}
+\contentsline {chapter}{\numberline {4}Analysis \& Results}{7}
+\contentsline {section}{\numberline {4.1}Introduction}{7}
+\contentsline {section}{\numberline {4.2}Experiment 1}{7}
+\contentsline {section}{\numberline {4.3}Experiment 2}{8}
+\contentsline {section}{\numberline {4.4}Summary}{8}
+\contentsline {chapter}{\numberline {5}Conclusions}{9}
+\contentsline {section}{\numberline {5.1}Recommendations}{9}
+\contentsline {section}{\numberline {5.2}Future Work}{9}
+\contentsline {section}{\numberline {5.3}Reflections}{9}
+\contentsline {section}{\numberline {5.4}Summary}{9}
+\contentsline {chapter}{Bibliography}{10}
+\contentsline {part}{Appendices}{13}
+\contentsline {chapter}{\numberline {A}Code}{13}
+\contentsline {chapter}{\numberline {B}Meetings with Supervisor}{14}
+\contentsline {chapter}{\numberline {C}Ethical Approval}{16}
